@@ -25,7 +25,7 @@ assignees: ''
 
 ### MWE
 
-<!-- Upload minimun sample file(s) for reproducing the bug. -->
+<!-- Upload minimum sample file(s) for reproducing the bug. -->
 
 ### Environment version
 
