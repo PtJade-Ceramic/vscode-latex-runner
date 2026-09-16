@@ -16,8 +16,8 @@ assignees: ''
 
 <!-- Record steps necessary for reproducing the bug as an ordered list. -->
 
-1. Press <kbd></kbd>
-2. See error
+1. <!-- Press <kbd></kbd> -->
+2. <!--See error -->
 
 ### Expected behavior
 
